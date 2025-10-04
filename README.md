@@ -1,13 +1,16 @@
 ## Hi there 👋 I'm Ramadan,  a Web Developper
 
-- 🔭 I’m currently working on my personal business
-- 🌱 I’m currently learning MERN FULLSTACK 
-- 👯 I’m looking to collaborate on my own company
-- 🤔 I’m looking for help with backend side
-- 💬 Ask me about web app
-- 📫 How to reach me: contact me on email at : ramadandengdihekeye@gmail.com
-- 😄 Pronouns: DENG DIHE KE YE
-- ⚡ Fun fact: I'm  the one of nature lover 
+### Hi there 👋, I'm Ramadan DKrohong!
+
+🔭 I’m currently working on a web-based tourism information system for Mahakam Ulu.  
+🌱 I’m currently learning Django, REST API, and React for full-stack development.  
+👯 I’m looking to collaborate on open-source projects related to web development or data science.  
+🤔 I’m looking for help with improving my skills in cloud deployment (like Nginx and Docker).  
+💬 Ask me about Python, Django, HTML/CSS.
+📫 How to reach me: [email: ramadandengdihekeye@gmail.com] | [Instagram: @deng_dihe_ke] | [Facebook: @Ramadan Delang Krohong]
+😄 Pronouns: he/him  
+⚡ Fun fact: I love creating things that connect local innovation with global technology!
+
 
 <!--
 **RamadanDK/RamadanDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
