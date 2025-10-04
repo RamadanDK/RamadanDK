@@ -1,6 +1,4 @@
-## Hi there 👋 I'm Ramadan,  a Web Developper
-
-### Hi there 👋, I'm Ramadan DKrohong!
+## Hi there 👋 I'm Ramadan
 
 🔭 I’m currently working on a web-based tourism information system for Mahakam Ulu.  
 🌱 I’m currently learning Django, REST API, and React for full-stack development.  
