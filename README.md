@@ -1,7 +1,7 @@
-## Hi there 👋 I'm Ramadan, and I a Web Developper
+## Hi there 👋 I'm Ramadan,  a Web Developper
 
 - 🔭 I’m currently working on my personal business
-- 🌱 I’m currently learning MERS FULLSTACK 
+- 🌱 I’m currently learning MERN FULLSTACK 
 - 👯 I’m looking to collaborate on my own company
 - 🤔 I’m looking for help with backend side
 - 💬 Ask me about web app
