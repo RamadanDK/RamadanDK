@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Ramadan, and I a Web Developper
+
+- 🔭 I’m currently working on my personal business
+- 🌱 I’m currently learning MERS FULLSTACK 
+- 👯 I’m looking to collaborate on my own company
+- 🤔 I’m looking for help with backend side
+- 💬 Ask me about web app
+- 📫 How to reach me: contact me on email at : ramadandengdihekeye@gmail.com
+- 😄 Pronouns: DENG DIHE KE YE
+- ⚡ Fun fact: I'm  the one of nature lover 
 
 <!--
 **RamadanDK/RamadanDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
